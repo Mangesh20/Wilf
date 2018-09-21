@@ -26,6 +26,7 @@
 		86B15CB2215528E600636E41 /* SourceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
 		86B15CB3215528E600636E41 /* LoadVideoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadVideoViewController.swift; sourceTree = "<group>"; };
 		86B15CB621552BBA00636E41 /* VideoHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoHelper.swift; sourceTree = "<group>"; };
+		86B15CB821553B6300636E41 /* carstest.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = carstest.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		86B15C9C2155244000636E41 /* Wilf */ = {
 			isa = PBXGroup;
 			children = (
+				86B15CB821553B6300636E41 /* carstest.mp4 */,
 				86B15CB621552BBA00636E41 /* VideoHelper.swift */,
 				86B15C9D2155244000636E41 /* AppDelegate.swift */,
 				86B15CB1215528D700636E41 /* Controllers */,
